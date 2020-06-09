@@ -1,6 +1,6 @@
 {
-    "name": "test1",
-    "type": "drupal-module",
+  "name": "hatuhay/test1",
+  "type": "drupal-custom-module",
     "description": "My Awesome Module",
     "keywords": [
     ],
